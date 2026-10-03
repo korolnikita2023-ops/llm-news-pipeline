@@ -18,8 +18,7 @@ Everything runs offline by default: `LLM_PROVIDER=mock` and
 `PUBLISH_MODE=dry-run` need no API keys and make no calls to an LLM provider
 or Telegram.
 
-License: MIT (see LICENSE). No licence file is included, so all rights are
-reserved until the owner decides.
+License: MIT (see LICENSE).
 
 ## What is verified
 
