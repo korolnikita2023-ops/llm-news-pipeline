@@ -1,0 +1,167 @@
+[
+  {
+    "id": "sample-01",
+    "sample": true,
+    "source": "РИА-образец (SAMPLE)",
+    "lang": "ru",
+    "title": "В Самарской области задержан мужчина, два года получавший компенсации на имена пропавших без вести",
+    "summary": "По версии следствия, 34-летний местный житель выдавал себя за сотрудника соцзащиты и оформлял выплаты на паспортные данные пропавших без вести жителей района. Схему раскрыла сотрудница банка, заметившая семь счетов на один паспорт. Ущерб следствие оценивает в 2,3 млн рублей.",
+    "url": "https://example-news.invalid/sample-01",
+    "published_at": "2026-08-10T09:00:00+03:00",
+    "category": "мошенничество"
+  },
+  {
+    "id": "sample-02",
+    "sample": true,
+    "source": "СУ СК-образец (SAMPLE)",
+    "lang": "ru",
+    "title": "Спустя 11 лет после исчезновения женщины в Красноярском крае получено совпадение ДНК с неопознанным телом",
+    "summary": "Женщина пропала без вести в 2014 году, дело закрыли в 2016-м без результата. При повторной сверке базы данных неопознанных тел в июле этого года судмедэксперты получили совпадение с образцом ДНК, который родственники сдали ещё в 2014-м. Тело было обнаружено в 2015 году в соседнем районе и числилось неопознанным. Следствие по факту гибели возобновлено, причина смерти пока не установлена.",
+    "url": "https://example-news.invalid/sample-02",
+    "published_at": "2026-08-09T14:20:00+03:00",
+    "category": "раскрыто спустя годы"
+  },
+  {
+    "id": "sample-03",
+    "sample": true,
+    "source": "МВД-образец (SAMPLE)",
+    "lang": "ru",
+    "title": "Житель Ленинградской области заявил в полицию о краже своей машины — её нашли там же, где он её припарковал",
+    "summary": "Мужчина обратился в полицию: якобы ночью со двора угнали его автомобиль. На месте, которое он указал как «пустое», патруль обнаружил ту же машину — с его отпечатками на руле и штрафной квитанцией под дворником. По версии следствия, заявление о краже он подал, чтобы избежать штрафа и не портить историю страхования. Решается вопрос о привлечении его к ответственности за заведомо ложный донос.",
+    "url": "https://example-news.invalid/sample-03",
+    "published_at": "2026-08-08T11:00:00+03:00",
+    "category": "курьёз"
+  },
+  {
+    "id": "sample-04",
+    "sample": true,
+    "source": "Local Gazette-sample (SAMPLE)",
+    "lang": "en",
+    "title": "Cold case reopened in Ohio after genealogy database links 1998 remains to missing student",
+    "summary": "Investigators say a forensic genealogy match connects skeletal remains found in 1998 to a college student reported missing that same year. Police describe the case as a suspected homicide; no suspect has been named. The department credits a public genetic-genealogy database, not new physical evidence, for the breakthrough.",
+    "url": "https://example-news.invalid/sample-04",
+    "published_at": "2026-08-07T16:45:00-05:00",
+    "category": "раскрыто спустя годы"
+  },
+  {
+    "id": "sample-05",
+    "sample": true,
+    "source": "Regional Press-sample (SAMPLE)",
+    "lang": "en",
+    "title": "UK man arrested after allegedly staging his own burglary to claim insurance on a guitar collection",
+    "summary": "Police in Yorkshire say a 41-year-old man reported his home burgled, but investigators found the same items listed for sale online under his own account two days earlier. He has been arrested on suspicion of fraud by false representation and is currently on bail pending charge.",
+    "url": "https://example-news.invalid/sample-05",
+    "published_at": "2026-08-06T10:15:00+01:00",
+    "category": "курьёз"
+  },
+  {
+    "id": "sample-06",
+    "sample": true,
+    "source": "Пресс-служба СК-образец (SAMPLE)",
+    "lang": "ru",
+    "title": "В Ростовской области по подозрению в подмене онкопрепаратов физраствором задержан заведующий аптекой",
+    "summary": "По версии следствия, мужчина в течение трёх лет заменял часть выдаваемых по льготным рецептам онкологических препаратов физраствором, а изъятые лекарства продавал через посредников. Проверка начата после жалобы родственников пациента. Возбуждено уголовное дело, мужчина заключён под стражу до решения суда.",
+    "url": "https://example-news.invalid/sample-06",
+    "published_at": "2026-08-05T08:30:00+03:00",
+    "category": "громкое дело"
+  },
+  {
+    "id": "sample-07",
+    "sample": true,
+    "source": "National Wire-sample (SAMPLE)",
+    "lang": "en",
+    "title": "Australian police confirm identity of hiker missing since 2019 after remains found by bushwalkers",
+    "summary": "Remains discovered by hikers in a remote gorge have been formally identified through dental records as a 52-year-old man who vanished during a solo trek in 2019. Police say the terrain likely delayed discovery for years and have not ruled out accidental death, pending a coronial inquest.",
+    "url": "https://example-news.invalid/sample-07",
+    "published_at": "2026-08-04T09:00:00+10:00",
+    "category": "раскрыто спустя годы"
+  },
+  {
+    "id": "sample-08",
+    "sample": true,
+    "source": "Прокуратура региона-образец (SAMPLE)",
+    "lang": "ru",
+    "title": "Подросток пострадал в результате нападения во дворе жилого дома, возбуждено уголовное дело",
+    "summary": "По данным прокуратуры, несовершеннолетний получил травмы в результате нападения неизвестного во дворе жилого дома. Возраст пострадавшего — 14 лет, имя в интересах несовершеннолетнего не разглашается. Устанавливается личность нападавшего, дело взято на контроль прокуратурой региона.",
+    "url": "https://example-news.invalid/sample-08",
+    "published_at": "2026-08-03T18:00:00+03:00",
+    "category": "громкое дело"
+  },
+  {
+    "id": "sample-09",
+    "sample": true,
+    "source": "Военная прокуратура-образец (SAMPLE)",
+    "lang": "ru",
+    "title": "Военнослужащего одной из частей ВС РФ подозревают в превышении должностных полномочий с применением насилия",
+    "summary": "По версии следствия военной прокуратуры, военнослужащий превысил должностные полномочия в отношении подчинённого, применив физическое насилие. Проводится доследственная проверка. Часть и точное место дислокации не называются.",
+    "url": "https://example-news.invalid/sample-09",
+    "published_at": "2026-08-02T12:00:00+03:00",
+    "category": "громкое дело"
+  },
+  {
+    "id": "sample-10",
+    "sample": true,
+    "source": "Anonymous tip aggregator-sample (SAMPLE)",
+    "lang": "ru",
+    "title": "В сети обсуждают историю о жестоком маньяке, который годами держал город в страхе",
+    "summary": "Пользователи соцсетей пересказывают историю о серийном преступнике без ссылки на официальный источник, суд или ведомство. Достоверность фактов не подтверждена, первоисточник не установлен.",
+    "url": "",
+    "published_at": "2026-08-01T20:00:00+03:00",
+    "category": "непроверено"
+  },
+  {
+    "id": "sample-11",
+    "sample": true,
+    "source": "Court Wire-sample (SAMPLE)",
+    "lang": "en",
+    "title": "Berlin court hands down verdict in decade-old fraud scheme after final appeal exhausted",
+    "summary": "A Berlin regional court has upheld a conviction against a 58-year-old former financial adviser found guilty of running a Ponzi-style investment scheme that defrauded over 200 clients between 2012 and 2016. The verdict is now final after the defendant's last appeal was rejected. He has been sentenced to seven years.",
+    "url": "https://example-news.invalid/sample-11",
+    "published_at": "2026-07-31T13:00:00+02:00",
+    "category": "приговор вступил в силу"
+  },
+  {
+    "id": "sample-12",
+    "sample": true,
+    "source": "Metro Desk-sample (SAMPLE)",
+    "lang": "en",
+    "title": "Sao Paulo police dismantle counterfeit medicine ring operating out of three warehouses",
+    "summary": "Authorities say the operation produced and distributed counterfeit versions of common prescription drugs across several states. Four suspects were arrested during coordinated raids; investigators are still tracing the distribution network and estimating the scale of the operation.",
+    "url": "https://example-news.invalid/sample-12",
+    "published_at": "2026-07-30T15:30:00-03:00",
+    "category": "громкое дело"
+  },
+  {
+    "id": "sample-13",
+    "sample": true,
+    "source": "Cyber Desk-sample (SAMPLE)",
+    "lang": "en",
+    "title": "Indian police arrest three in call-center scam that impersonated tax officials to defraud elderly victims abroad",
+    "summary": "Police in Noida say the operation targeted elderly residents in North America by phone, posing as tax authorities and threatening arrest unless victims paid via gift cards. Investigators estimate losses in the low millions of dollars across dozens of victims; the case is being coordinated with foreign law enforcement.",
+    "url": "https://example-news.invalid/sample-13",
+    "published_at": "2026-07-29T10:00:00+05:30",
+    "category": "мошенничество"
+  },
+  {
+    "id": "sample-14",
+    "sample": true,
+    "source": "Regional News-sample (SAMPLE)",
+    "lang": "en",
+    "title": "Tokyo prosecutors indict former logistics manager over decade of falsified safety inspection records",
+    "summary": "Prosecutors allege the manager systematically falsified inspection logs for warehouse equipment over ten years to avoid costly downtime, a practice that came to light after an unrelated workplace injury triggered an audit. No injuries have been directly linked to the falsified records so far; the case remains under investigation.",
+    "url": "https://example-news.invalid/sample-14",
+    "published_at": "2026-07-28T09:45:00+09:00",
+    "category": "громкое дело"
+  },
+  {
+    "id": "sample-15",
+    "sample": true,
+    "source": "Пресс-служба СК-образец (SAMPLE)",
+    "lang": "ru",
+    "title": "Экспертиза случайно найденного дневника помогла следствию установить хронологию дела 2009 года",
+    "summary": "При ремонте старого архивного здания рабочие обнаружили коробку с материалами, которые, по данным следствия, относятся к делу 2009 года о серии квартирных краж. Записи в найденном блокноте помогли следствию уточнить хронологию событий. Уголовное дело в отношении причастных лиц находится на стадии доследственной проверки.",
+    "url": "https://example-news.invalid/sample-15",
+    "published_at": "2026-07-27T17:10:00+03:00",
+    "category": "раскрыто спустя годы"
+  }
+]

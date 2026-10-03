@@ -1,0 +1,22 @@
+# Telegram news bot. Python 3.12.
+# Minimal dependency set.
+
+aiogram>=3.15,<4.0          # approval bot and publishing (Bot API)
+httpx>=0.27                 # GDELT DOC 2.0, NewsData.io, generic HTTP requests
+feedparser>=6.0             # RSS parsing
+datasketch>=1.6             # MinHash/LSH for L1 de-duplication
+Pillow>=10.4                # post card image generation
+python-dotenv>=1.0          # .env loading
+
+# LLM SDKs: at least one is needed, depending on LLM_PROVIDER in .env.
+# Without keys (LLM_PROVIDER=mock, the default) the pipeline runs in a
+# mock / dry-run mode; src/llm_client.py imports provider SDKs lazily,
+# inside the provider call function.
+google-genai>=1.0            # LLM_PROVIDER=gemini
+openai>=1.50                 # LLM_PROVIDER=openai
+anthropic>=0.40              # LLM_PROVIDER=anthropic (optional third provider)
+
+# Tests
+pytest>=8.0
+
+# sqlite3 is part of the Python standard library.
